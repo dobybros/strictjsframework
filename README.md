@@ -1,2 +1,2 @@
 # strictjsframework
-MVVP Javascript Framework
+MVP Javascript Framework
